@@ -1,5 +1,5 @@
 # sahibinden_scraper
-This scraper scrapes major Turkish e-commerce web site sahibinden.com which has bot protection system for web scrapers.
+This scraper written with Scrapy scrapes major Turkish e-commerce web site sahibinden.com which has bot protection system for web scrapers.
 
 In order to bypass the bot detection system 3 methods are used
 
